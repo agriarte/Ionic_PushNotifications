@@ -1,0 +1,6 @@
+{
+  "appId": "com.tallerdeapps.demopush2",
+  "appName": "demoPush",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
